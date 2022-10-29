@@ -24,10 +24,10 @@ I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer 
                 <div className="personal__info padd__15">
                   <div className="row">
                     <div className="info__item padd__15">
-                      <p>Birthday : <span>4 march 2002</span> </p>
+                      <p>Birthday : <span>4 march 2003</span> </p>
                     </div>
                     <div className="info__item padd__15">
-                      <p>Age : <span>20</span> </p>
+                      <p>Age : <span>19</span> </p>
                     </div>
                     <div className="info__item padd__15">
                       <p>Website : <span>www.react.com</span> </p>
@@ -129,7 +129,7 @@ I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer 
                           <h3 className="timeline__date">
                             <i className="fa fa-calendar"></i> 2021 - 2022
                           </h3>
-                          <h4 className="timeline__title">Master in Next JS</h4>
+                          <h4 className="timeline__title">Master in Python</h4>
                           <p className="timeline__text">Lorem ipsum dolor sit amet
                             consectetur adipisicing elit. Nisi cupiditate culpa,
                             vitae dolor quis necessitatibus deserunt adipisci
@@ -175,7 +175,7 @@ I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer 
                           <h3 className="timeline__date">
                             <i className="fa fa-calendar"></i> 2021 - 2022
                           </h3>
-                          <h4 className="timeline__title">Master in Next JS</h4>
+                          <h4 className="timeline__title">Dotnet</h4>
                           <p className="timeline__text">Lorem ipsum dolor sit amet
                             consectetur adipisicing elit. Nisi cupiditate culpa,
                             vitae dolor quis necessitatibus deserunt adipisci
