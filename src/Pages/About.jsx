@@ -71,7 +71,7 @@ I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer 
                       <h5>React</h5>
                       <div className="progress">
                         <div className="progress__in"  style={{width: '76%'}}></div>
-                        <div className="skill__percent">76%</div>
+                        <div className="skill__percent">70%</div>
                       </div>
                     </div>
 
